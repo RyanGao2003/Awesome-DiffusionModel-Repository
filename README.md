@@ -1,6 +1,6 @@
 ## Diffusion-Learning-Repository
 
-Here's some recent papers about diffusion (models) learning published from 2022. Data is collected form IEEE Xplore.
+Here's some recent papers about diffusion (models) learning published since 2022. Data is collected form IEEE Xplore.
 
 The diffusion method can be summarized as follows:
 
@@ -739,61 +739,6 @@ Publication Year: 2022
 
 Publish Date: 2 May 2022
 
----
-
-#### DeepDiffusion: Unsupervised Learning of Retrieval-Adapted Representations via Diffusion-Based Ranking on Latent Feature Manifold
-
-Authors: T. Furuya; R. Ohbuchi
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9934898
-
-Journal: IEEE Access
-
-Publication Year: 2022
-
-Publish Date: 10 Nov 2022
-
----
-
-#### Optimal Diffusion Learning Over Networks—Part I: Single-Task Algorithms
-
-Authors: R. Merched
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9677936
-
-Journal: IEEE Open Journal of Signal Processing
-
-Publication Year: 2022
-
-Publish Date: 31 Mar 2022
-
----
-
-#### Beyond Drift Diffusion Models: Fitting a Broad Class of Decision and Reinforcement Learning Models with HDDM
-
-Authors: A. Fengler; K. Bera; M. L. Pedersen; M. J. Frank
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9928157
-
-Journal: Journal of Cognitive Neuroscience
-
-Publication Year: 2022
-
-Publish Date: 25 Oct 2022
-
----
-
-#### Optimal Diffusion Learning Over Networks—Part II: Multitask Algorithms
-
-Authors: R. Merched
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9678010
-
-Journal: IEEE Open Journal of Signal Processing
-
-Publication Year: 2022
-
-Publish Date: 31 Mar 2022
 
 ---
 
@@ -1245,90 +1190,6 @@ Journal: IEEE Open Journal of Signal Processing
 Publication Year: 2022
 
 Publish Date: 28 Sep 2022
-
----
-
-#### Joint Learning of User Representation With Diffusion Sequence and Network Structure
-
-Authors: Z. Wang; C. Chen; W. Li
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9094385
-
-Journal: IEEE Transactions on Knowledge and Data Engineering
-
-Publication Year: 2022
-
-Publish Date: 3 Feb 2022
-
----
-
-#### Learning to Identify Sources of Network Diffusion
-
-Authors: C. Ye; G. Mateos
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9909689
-
-Journal: 2022 30th European Signal Processing Conference (EUSIPCO)
-
-Publication Year: 2022
-
-Publish Date: 18 Oct 2022
-
----
-
-#### Intrinsic Graph Learning With Discrete Constrained Diffusion–Fusion
-
-Authors: X. Wei; T. Lu; S. Li
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9521968
-
-Journal: IEEE Transactions on Neural Networks and Learning Systems
-
-Publication Year: 2023
-
-Publish Date: 28 Feb 2023
-
----
-
-#### Error Diffusion Halftone Classification using Contrastive Learning
-
-Authors: J. Guo; S. Sankarasrinivasan
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9869191
-
-Journal: 2022 IEEE International Conference on Consumer Electronics - Taiwan
-
-Publication Year: 2022
-
-Publish Date: 1 Sep 2022
-
----
-
-#### Adaptive Learning Neural Network Method for Solving Time–Fractional Diffusion Equations
-
-Authors: B. Shiri; H. Kong; G. -C. Wu; C. Luo
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9808266
-
-Journal: Neural Computation
-
-Publication Year: 2022
-
-Publish Date: 27 Jun 2022
-
----
-
-#### Print to Scan Resistant Watermarking based on Green Noise Diffusion Method using Machine Learning
-
-Authors: Y. M. Cho; H. Imada; N. Kawamura; H. Kang; K. Iwamura
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9728895
-
-Journal: 2022 24th International Conference on Advanced Communication Technology (ICACT)
-
-Publication Year: 2022
-
-Publish Date: 11 Mar 2022
 
 ---
 
@@ -2228,19 +2089,6 @@ Publish Date:
 
 ---
 
-#### PanDiff: A Novel Pansharpening Method Based on Denoising Diffusion Probabilistic Model
-
-Authors: Q. Meng; W. Shi; S. Li; L. Zhang
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10136205
-
-Journal: IEEE Transactions on Geoscience and Remote Sensing
-
-Publication Year: 2023
-
-Publish Date: 8 Jun 2023
-
----
 
 #### A Domain Translation Framework With an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images
 
@@ -2268,19 +2116,6 @@ Publication Year: 2023
 
 Publish Date:
 
----
-
-#### Learning From Heterogeneous Data Based on Social Interactions Over Graphs
-
-Authors: V. Bordignon; S. Vlaski; V. Matta; A. H. Sayed
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9999456
-
-Journal: IEEE Transactions on Information Theory
-
-Publication Year: 2023
-
-Publish Date: 21 Apr 2023
 
 ---
 
@@ -2326,19 +2161,6 @@ Publish Date: 18 Jan 2023
 
 ---
 
-#### Using Deep Learning to Identify Linguistic Features that Facilitate or Inhibit the Propagation of Anti- and Pro-Vaccine Content on Social Media
-
-Authors: Y. A. Argyris; N. Zhang; B. Bashyal; P. -N. Tan
-
-PDF Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9861071
-
-Journal: 2022 IEEE International Conference on Digital Health (ICDH)
-
-Publication Year: 2022
-
-Publish Date: 24 Aug 2022
-
----
 
 #### Multiple B-Value Model-Based Residual Network (MORN) for Accelerated High-Resolution Diffusion-Weighted Imaging
 
